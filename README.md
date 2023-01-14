@@ -1,0 +1,2 @@
+# Lcomtool
+一个基于pysimplegui框架的高灵活性调试上位机
